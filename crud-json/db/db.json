@@ -1,0 +1,45 @@
+{
+    "USERS":[
+        {
+          "id": 1,
+          "name": "John Doe",
+          "email": "john.doe@example.com",
+          "phone": "9876543210",
+          "address": "123 Main St, New York, NY",
+          "role": "Admin"
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "email": "jane.smith@example.com",
+          "phone": "8765432109",
+          "address": "456 Oak St, Los Angeles, CA",
+          "role": "User"
+        },
+        {
+          "id": 3,
+          "name": "Alice Johnson",
+          "email": "alice.johnson@example.com",
+          "phone": "7654321098",
+          "address": "789 Pine St, Chicago, IL",
+          "role": "User"
+        },
+        {
+          "id": 4,
+          "name": "Bob Williams",
+          "email": "bob.williams@example.com",
+          "phone": "6543210987",
+          "address": "321 Cedar St, Houston, TX",
+          "role": "Moderator"
+        },
+        {
+          "id": 5,
+          "name": "Charlie Brown",
+          "email": "charlie.brown@example.com",
+          "phone": "5432109876",
+          "address": "555 Maple St, San Francisco, CA",
+          "role": "User"
+        }
+      ]
+      
+}
